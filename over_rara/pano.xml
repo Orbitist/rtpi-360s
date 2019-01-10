@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="5.2.5" id="node1" apprev="15998">
+  <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" width="2048" levelingpitch="0" overlap="1" levelingroll="0" height="2048" levelbias="0.400">
+    <level predecode="0" width="2048" height="2048" preload="0"/>
+    <level predecode="0" width="1024" height="1024" preload="0"/>
+    <level predecode="0" width="512" height="512" preload="0"/>
+    <level predecode="1" width="256" height="256" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" pan="0" projection="4" fov="70"/>
+    <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+    <min tilt="-90" pan="0" fov="5"/>
+    <max tilt="90" pan="360" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="120"/>
+  </view>
+  <userdata source="" longitude="" customnodeid="" description="" comment="" copyright="" tags="Costa Rica" latitude="" title="" author="" datetime="" info=""/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label backgroundcolor="0xffffff" enabled="1" borderradius="1" wordwrap="1" borderalpha="1" width="180" textalpha="1" backgroundalpha="1" background="1" bordercolor="0x000000" border="1" height="20" textcolor="0x000000"/>
+    <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0"/>
+  </hotspots>
+  <media/>
+  <transition zoomout="0" zoomoutpause="1" enabled="0" blendtime="1" zoomin="0" zoomspeed="2" zoomfov="20" softedge="0" blendcolor="0x000000" type="crossdissolve"/>
+  <control lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="0" sensitivity="8" contextfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0"/>
+</panorama>
