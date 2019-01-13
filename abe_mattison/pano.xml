@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="15998" start="node1" appversion="5.2.5">
+  <panorama id="node1">
+    <input levelingpitch="0" levelbiashidpi="0.400" levelingroll="0" width="3437" height="3437" leveltilesize="510" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="3437" height="3437" predecode="0"/>
+      <level preload="0" width="1718" height="1718" predecode="0"/>
+      <level preload="0" width="859" height="859" predecode="0"/>
+      <level preload="1" width="429" height="429" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-58.1" fov="5"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" datetime="8/13/18 6:59 AM" copyright="" tags="Panoramas" author="" comment="" source="" description="" info="" title="" customnodeid="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" width="180" height="20" textcolor="0x000000" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot id="Point01" target="" pan="140.21" skinid="ht_node" description="" url="{node2}" tilt="3.12" title=""/>
+      <hotspot id="Point02" target="" pan="0.3" skinid="ht_video_youtube" description="" url="vCqNPPR1W2U" tilt="13.03" title="Identifying Japanese knotweed"/>
+      <hotspot id="Point03" target="" pan="-92.17" skinid="ht_image" description="" url="images/Abe-Mattison-Japanese-Knotweed_6.jpg" tilt="7.49" title="Abe Mattison Millrace Park"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomspeed="2" enabled="0" zoomfov="20" zoomoutpause="1" type="cut" softedge="0" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <control rubberband="0" lockedmouse="0" speedwheel="1" invertwheel="0" hideabout="0" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" levelbiashidpi="0.400" levelingroll="0" width="3443" height="3443" leveltilesize="510" overlap="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="3443" height="3443" predecode="0"/>
+      <level preload="0" width="1721" height="1721" predecode="0"/>
+      <level preload="0" width="860" height="860" predecode="0"/>
+      <level preload="1" width="430" height="430" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-56.2" fov="5"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" datetime="8/13/18 6:52 AM" copyright="" tags="Panoramas" author="" comment="" source="" description="" info="" title="" customnodeid="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" width="180" height="20" textcolor="0x000000" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot id="Point01" target="" pan="167" skinid="ht_node" description="" url="{node1}" tilt="-6.19" title=""/>
+      <hotspot id="Point02" target="" pan="-2.53" skinid="ht_node" description="" url="{node3}" tilt="0.61" title=""/>
+      <hotspot id="Point03" target="" pan="33.9" skinid="ht_info" description="Check out how this plant surrounds you on all sides of the path. It is considered one of the world's worst invasive species that can completely crowd out other herbacious species. It's not easy to get rid of due to its extensive root system and the ability to grow back quickly." url="" tilt="-2.28" title="An Invasive Plant"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomspeed="2" enabled="0" zoomfov="20" zoomoutpause="1" type="cut" softedge="0" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <control rubberband="0" lockedmouse="0" speedwheel="1" invertwheel="0" hideabout="0" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" levelbiashidpi="0.400" levelingroll="0" width="3446" height="3446" leveltilesize="510" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="3446" height="3446" predecode="0"/>
+      <level preload="0" width="1723" height="1723" predecode="0"/>
+      <level preload="0" width="861" height="861" predecode="0"/>
+      <level preload="1" width="430" height="430" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-56.9" fov="5"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" datetime="8/13/18 6:46 AM" copyright="" tags="Panoramas" author="" comment="" source="" description="" info="" title="" customnodeid="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" width="180" height="20" textcolor="0x000000" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot id="Point01" target="" pan="-116.9" skinid="ht_node" description="" url="{node2}" tilt="-0.92" title=""/>
+      <hotspot id="Point02" target="" pan="89.19" skinid="ht_node" description="" url="{node4}" tilt="-7.27" title=""/>
+      <hotspot id="Point03" target="" pan="27.03" skinid="ht_image" description="" url="images/Abe-Mattison-Japanese-Knotweed_3.jpg" tilt="-23.28" title=""/>
+      <hotspot id="Point04" target="" pan="-33.44" skinid="ht_video_file" description="" url="media/Japanese Knotweed Bench Clip.mp4" tilt="-3.71" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomspeed="2" enabled="0" zoomfov="20" zoomoutpause="1" type="cut" softedge="0" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <control rubberband="0" lockedmouse="0" speedwheel="1" invertwheel="0" hideabout="0" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" levelbiashidpi="0.400" levelingroll="0" width="3438" height="3438" leveltilesize="510" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" width="3438" height="3438" predecode="0"/>
+      <level preload="0" width="1719" height="1719" predecode="0"/>
+      <level preload="0" width="859" height="859" predecode="0"/>
+      <level preload="1" width="429" height="429" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-60.6" fov="5"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" datetime="8/13/18 6:41 AM" copyright="" tags="Panoramas" author="" comment="" source="" description="" info="" title="" customnodeid="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" background="1" bordercolor="0x000000" enabled="1" textalpha="1" backgroundcolor="0xffffff" border="1" wordwrap="1" width="180" height="20" textcolor="0x000000" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot id="Point01" target="" pan="-111.79" skinid="ht_node" description="" url="{node3}" tilt="-0.77" title=""/>
+      <hotspot id="Point02" target="_blank" pan="5.86" skinid="ht_url" description="Learn more about Japanese Knotweed&#xa;" url="https://en.wikipedia.org/wiki/Fallopia_japonica" tilt="-11.07" title="Learn More"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomspeed="2" enabled="0" zoomfov="20" zoomoutpause="1" type="cut" softedge="0" blendcolor="0x000000" blendtime="1" zoomin="0"/>
+    <control rubberband="0" lockedmouse="0" speedwheel="1" invertwheel="0" hideabout="0" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+</tour>
